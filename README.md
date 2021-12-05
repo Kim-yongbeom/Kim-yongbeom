@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-3766AB?style=flat-square&logo=CSS3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C-808080?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/Mongodb-339933?style=flat-square&logo=Mongodb&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-99CCFF?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
