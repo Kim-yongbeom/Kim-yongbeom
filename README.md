@@ -27,6 +27,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Mysql-6979BB?style=flat-square&logo=MySql&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/React-50BCDF?style=flat-square&logo=React&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
+  <br>
 </p>
 
-![Kim-yongbeom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-yongbeom&show_icons=true&theme=discord_old_blurple)
+
+![Kim-yongbeom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-yongbeom&show_icons=true&theme=nord)
