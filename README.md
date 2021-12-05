@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-사용가능 기술 
+# 사용가능 기술 
 <img width="673" alt="스크린샷 2021-12-05 오후 9 50 03" src="https://user-images.githubusercontent.com/89058117/144747231-3d7b1c40-bd38-4137-afaa-5149419722f0.png">
