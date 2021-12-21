@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 
  -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=DATA&fontSize=80&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=&height=300&section=header&text=DATA&fontSize=80&animation=twinkling)
 
 
