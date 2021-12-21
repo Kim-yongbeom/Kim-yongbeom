@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 
  -->
 
-https://capsule-render.vercel.app/api?
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=DATA&fontSize=80&animation=twinkling)
 
 
