@@ -38,3 +38,5 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=soft&color=437299&height=300&section=header&text=DATA&fontSize=80&animation=twinkling)
 
 
+### 기술블로그 : https://velog.io/@yongbeom
+
