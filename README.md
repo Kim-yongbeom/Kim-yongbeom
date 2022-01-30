@@ -37,7 +37,4 @@ Here are some ideas to get you started:
   <br>
 </p>
 
-<a href='https://velog.io/@yongbeom' target='_blank'>
-  기술 블로그
-</a>
 
