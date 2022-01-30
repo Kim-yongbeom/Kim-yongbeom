@@ -37,7 +37,5 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=437299&height=300&section=header&text=DATA&fontSize=80&animation=twinkling)
 
-<a href='https://velog.io/@yongbeom'>
-기술블로그
-</a>
+### <a href='https://velog.io/@yongbeom' target='_blank'>기술 블로그</a>
 
