@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=soft&color=112244&height=300&section=header&text=Web&fontSize=80&animation=twinkling&fontColor=EEEEEE)
 
 <!-- <h3 align="center">📚 Tech Stack 📚</h3> -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-3766AB?style=flat-square&logo=CSS3&logoColor=white" />
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
@@ -35,6 +35,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/jQuery-004C99?style=flat-square&logo=jQuery&logoColor=white"/></a>
   <br>
-</p>
+</p> -->
 
 
