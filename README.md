@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=112244&height=300&section=header&text=Web&fontSize=80&animation=twinkling&fontColor=EEEEEE)
+![header](https://capsule-render.vercel.app/api?type=soft&color=FF9966&height=300&section=header&text=Web&fontSize=80&animation=twinkling&fontColor=EEEEEE)
 
 <!-- <h3 align="center">📚 Tech Stack 📚</h3> -->
 <!-- <p align="center">
