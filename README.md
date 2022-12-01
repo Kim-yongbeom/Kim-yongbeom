@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 <!--   <img src="https://img.shields.io/badge/Django-336600?style=flat-square&logo=Django&logoColor=white"/></a> -->
   <br>
-  <img src="https://img.shields.io/badge/Mongodb-339933?style=flat-square&logo=Mongodb&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Vue-77B686?style=flat-square&logo=Vue.js&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Mysql-6979BB?style=flat-square&logo=MySql&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/React-50BCDF?style=flat-square&logo=React&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
