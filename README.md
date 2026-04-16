@@ -4,15 +4,12 @@
 <img
   src="https://raw.githubusercontent.com/pleasebelieveme/pleasebelieveme/output/pacman-contribution-graph-dark.svg?v=1"
 />
-<br/>
 
-<!-- <h3 align="center">📚 Tech Stack 📚</h3> -->
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-3766AB?style=flat-square&logo=CSS3&logoColor=white" />
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-50BCDF?style=flat-square&logo=React&logoColor=white"/>
-  <br/>
   <img src="https://img.shields.io/badge/GraphQL-BE3FA3?style=flat-square&logo=GraphQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-0EA5E9?style=flat-square&logo=TailwindCSS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-5551FF?style=flat-square&logo=Figma&logoColor=white"/>
