@@ -46,12 +46,3 @@ Here are some ideas to get you started:
     <img src="https://render.gitanimals.org/farms/Kim-yongbeom"/>
   </a> -->
 </p>
-
-
-## 🎮 Connect Four — Play with me!
-
-[게임 보드 이미지는 Actions가 자동 생성]
-
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 |
-|---|---|---|---|---|---|---|
-[Click a column to play!](https://github.com/Kim-yongbeom/Kim-yongbeom/issues/new?title=connect4%7Cdrop%7C1)
