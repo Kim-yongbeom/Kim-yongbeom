@@ -38,6 +38,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/GraphQL-BE3FA3?style=flat-square&logo=GraphQL&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/TailwindCSS-0EA5E9?style=flat-square&logo=TailwindCSS&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Figma-5551FF?style=flat-square&logo=Figma&logoColor=white"/></a> 
+  <br/>
+  <img scr="https://img.shields.io/badge/Claude-d97757?style=flat-square&logo=claude&logoColor=white"/></a>
 <!--   <img src="https://img.shields.io/badge/Python-4B6892?style=flat-square&logo=Python&logoColor=white"/></a>  -->
 <!--   <img src="https://img.shields.io/badge/Mysql-365C81?style=flat-square&logo=MySql&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> -->
