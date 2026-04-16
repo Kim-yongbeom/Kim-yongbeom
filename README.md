@@ -19,6 +19,14 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=2026&fontSize=80&animation=scaleIn&fontColor=EEEEEE)
 
+<br/>
+<br/>
+<img
+  src="https://raw.githubusercontent.com/pleasebelieveme/pleasebelieveme/output/pacman-contribution-graph-dark.svg?v=1"
+/>
+<br/>
+<br/>
+
 <!-- <h3 align="center">📚 Tech Stack 📚</h3> -->
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
@@ -36,14 +44,7 @@ Here are some ideas to get you started:
 <!--   <img src="https://img.shields.io/badge/Mysql-365C81?style=flat-square&logo=MySql&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> -->
 <!--   <img src="https://img.shields.io/badge/jQuery-004C99?style=flat-square&logo=jQuery&logoColor=white"/></a> -->
-  <br/>
-  <br/>
-  <img
-    src="https://raw.githubusercontent.com/pleasebelieveme/pleasebelieveme/output/pacman-contribution-graph-dark.svg?v=1"
-  />
-  <br/>
-  <br/>
-  <a href="https://github.com/devxb/gitanimals">
+  <!-- <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/farms/Kim-yongbeom"/>
-  </a>
+  </a> -->
 </p>
