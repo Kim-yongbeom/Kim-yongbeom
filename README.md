@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=2026&fontSize=80&animation=scaleIn&fontColor=EEEEEE)
 
-<br/>
 <img
   src="https://raw.githubusercontent.com/pleasebelieveme/pleasebelieveme/output/pacman-contribution-graph-dark.svg?v=1"
 />
